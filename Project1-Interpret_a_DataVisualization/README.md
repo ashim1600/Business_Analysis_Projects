@@ -1,11 +1,8 @@
 # Interpret a Data Visualization Dashboard
 
-![Intro Pic](screenshots/intro.png)
-
-
 ## Table of Contents
-1. [Project description](#Project description)
-2. [About the data](#About the data)
+1. Project description
+2. About the data
 	
 <a name="Project description"></a>
 ## Project description
