@@ -1,0 +1,7 @@
+/* Query 3 - Number of Sales per Media Type */
+SELECT m.Name AS "Media Type", COUNT(il.InvoiceId) AS "Number of Sales"
+FROM MediaType m
+JOIN Track t ON t.MediaTypeId = m.MediaTypeId
+JOIN InvoiceLine il ON il.TrackId = t.TrackId
+GROUP BY m.Name
+ORDER BY "Number of Sales" DESC;

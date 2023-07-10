@@ -1,0 +1,8 @@
+
+/* QUERY 5 - Total Sales Per Country */
+
+SELECT BillingCountry AS Country, SUM(total) AS "Total Sales Per Country"
+FROM Invoice
+GROUP BY BillingCountry
+ORDER BY "Total Sales Per Country" DESC
+LIMIT 10;
