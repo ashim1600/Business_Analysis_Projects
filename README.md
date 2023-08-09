@@ -31,4 +31,4 @@
 
 [Database used](https://github.com/ashim1600/Business_Analysis_Projects/blob/main/Project%204%20-%20Build%20Data%20Dashboards/Dataset%20(flight%20Delays).zip)
 
-![](https://github.com/ashim1600/Business_Analysis_Projects/blob/main/certificate.pdf)
+ [Link to CERTIFICATION](https://github.com/ashim1600/Business_Analysis_Projects/blob/main/certificate.pdf)
